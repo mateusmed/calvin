@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fafa1265-0a0f-4aae-8770-b05a54950554" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/image1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/logExample.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/calvin.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,16 +29,31 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="1280" />
     <option name="width" value="1024" />
     <option name="height" value="768" />
   </component>
+  <component name="ProjectId" id="2i9ShBf4EcPSUWtogywcTnXtAju" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Tor&#9;PSI&#9;JAVA://entity.Torneio&#10;Main&#9;FILE&#9;file:///home/mateumed/dev/workspace/calvin/src/main/java/control/Main.java&#10;Mai&#9;FILE&#9;file:///home/mateumed/dev/workspace/calvin/src/main/java/control/Main.java&#10;main&#9;FILE&#9;file:///home/mateumed/dev/workspace/calvin/src/main/java/control/Main.java&#10;bloc&#9;FILE&#9;file:///home/mateumed/dev/workspace/calvin/src/main/java/entity/Bloco.java&#10;ind&#9;FILE&#9;file:///home/mateumed/dev/workspace/calvin/src/main/java/entity/Individuo.java" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hal9000" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/dev/workspaceMateus/gaitule&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\dev\workspaceMateus\calvin\doc" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -92,6 +114,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="fafa1265-0a0f-4aae-8770-b05a54950554" name="Default" comment="" />
@@ -101,36 +124,6 @@
       <updated>1509897618621</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1603376828375">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603376828375" />
-    <state width="1877" height="331" key="GridCell.Tab.0.bottom" timestamp="1603376770537">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1603376770537" />
-    <state width="1877" height="331" key="GridCell.Tab.0.center" timestamp="1603376770537">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1603376770537" />
-    <state width="1877" height="331" key="GridCell.Tab.0.left" timestamp="1603376770537">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1603376770537" />
-    <state width="1877" height="331" key="GridCell.Tab.0.right" timestamp="1603376770537">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="1877" height="331" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1603376770537" />
-    <state x="788" y="222" key="RollbackChangesDialog" timestamp="1603373118959">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="788" y="222" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1603373118959" />
-    <state x="667" y="119" width="585" height="801" key="find.popup" timestamp="1603373531853">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="667" y="119" width="585" height="801" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1603373531853" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
